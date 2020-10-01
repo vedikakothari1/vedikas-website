@@ -6,9 +6,7 @@
 
 <head>
 
-<title> Vedika’s Experience with Dance! </title>
-
-
+Vedika's Experience With Dance
 
 <style>
 
