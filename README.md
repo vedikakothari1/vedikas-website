@@ -1,47 +1,17 @@
 # vedikas-website
 
 <!DOCTYPE html>
-
 <html>
-
-<head>
-
-Vedika's Experience With Dance
-
-<style>
-
-h1 {color:blue;}
-
-</style>
-
-
-
-</head>
-
-
-
-<body>
-
-<h1> Vedika’s Experience with Dance! </h1>
-
-
-
-<p> I have been dancing for almost 11 years now. To put that into perspective, I just turned 15, and started when I was just 4. My variety of experiences and opportunities I have gotten led me to where I am today. </p>
-
-
-
-<p> Some of the greatest opportunities I have gotten are being my group’s dance lead this year, group dance captain last year. I have also been able to compete in dance competitions in my group, where we won 1st place about 5 times! </p>
-
-
-
-<p> I have also been nominated for 2 awards throughout my division. My division is Advanced 2, with about 7 other groups. I was nominated for the awards “Most Improved” and “Best Overall Performance”, and won 1 of them! </p>
-
-
-
-<h2> This is just a little recap of <strong> some </strong> of the most important moments in my dance career. </h2>
-
-
-
-</body>
-
+  <head>
+    <h1> Vedika's Coding Experience! </h1>
+  </head>
+  <body>
+    <p> Hello! My name is Vedika Kothari, and I am writing this at 10:40 AM on Thursday, October 1, 2020. I assume that the next time I look at this website is in 10 years from now for nostalgia, or for another AP CSPrinciples assignment. Either way, in this website I will go through a brief overview of the exposure I have gotten to computer science and coding. </p>
+    <h2> 2019 </h2>
+    <p> I started coding in July of 2019 after attending a coding camp at the University of California, Irvine. This is where I got my first real passion for coding, and knew that this would be a good major to go into. For the first time, I was actually interested in something, so much that I thought about it being a pursuable career. </p>
+    
+   <h2> 2020 </h2>
+   <p> 
+    
+  </body>
 </html>
