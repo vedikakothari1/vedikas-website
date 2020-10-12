@@ -17,7 +17,8 @@
    <h3> Volunteer Work + CS Club Cabinet </h3>
    <p> I started volunteering to teach young girls coding to further my own experience as well as teach others an important and valuable skill that is constantly growing in existence. Then, I decided to take a shot, and apply for CS Club Cabinet, and fortunately got chosen as the 2020-2021 CS Club Treasurer at Whitney High School! </p>
    
-   ![zot zot!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eschoolnews.com%2F2017%2F01%2F13%2Fstate-policies-computer science%2F&psig=AOvVaw3l1a7aNYeUPio_EVx8RT4h&ust=1602566048781000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC2ufOlruwCFQAAAAAdAAAAABAJ)
-
+   ![blah](https://www.eschoolnews.com/files/2016/12/computer-science-education.jpg)
+  
+  <p> View the Project on GitHub </p>
   </body>
 </html>
