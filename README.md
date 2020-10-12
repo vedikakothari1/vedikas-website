@@ -10,6 +10,8 @@
     <h2> 2019 </h2>
     <h3> UCI </h3>
     <p> I started coding in July of 2019 after attending a coding camp at the University of California, Irvine. This is where I got my first real passion for coding, and knew that this would be a good major to go into. For the first time, I was actually interested in something, so much that I thought about it being a pursuable career. </p>
+    
+ [APP Camp at the University of California Irvine!](https://sites.uci.edu/appcamp/)
    
    ![zot zot!](https://ucirvinesports.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2017/6/7/history_2.jpg)
    
@@ -19,6 +21,6 @@
    
    ![blah](https://www.eschoolnews.com/files/2016/12/computer-science-education.jpg)
   
-  <p> View the Project on GitHub </p>
+ [Interested in learning more about computer science? Join CS Club at Whitney High School today, by clicking on me!](tinyurl.com/whitneycsclub)
   </body>
 </html>
