@@ -1,6 +1,5 @@
 # vedikas-website
 
-<!DOCTYPE html>
 <html>
   <head>
     <h1> Vedika's Coding Experience! </h1>
